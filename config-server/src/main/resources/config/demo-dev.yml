@@ -1,0 +1,3 @@
+server:
+  port: 9082
+foo: "hi demo 1 "
